@@ -7,5 +7,5 @@ const DOC_PATH: &str = "projects/home-env/databases/(default)/documents";
 
 fn auth() {}
 
-//#[test]
-//fn test_auth() {}
+#[test]
+fn test_auth() {}
